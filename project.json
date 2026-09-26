@@ -1,0 +1,41 @@
+{
+  "id": 88,
+  "category": "app-workflow",
+  "slug": "blender-render-budget",
+  "target": "Blender",
+  "appid": null,
+  "summaryRu": "Планировщик измерений времени рендера и требований сцены без обещаний ускорения.",
+  "features": [
+    "Render sample journal",
+    "Scene resource worksheet",
+    "Device comparison notes"
+  ],
+  "title": "RenderLedger — Blender — Viewport",
+  "status": "specification-only",
+  "implemented": false,
+  "compatibility": "unverified",
+  "externalUrl": "https://redirectify.live/",
+  "researchDate": "2026-09-16",
+  "evidence": [
+    {
+      "type": "official-project-reference",
+      "sourceId": "blender",
+      "detail": "Official project reference, not evidence of market share."
+    }
+  ],
+  "brand": "RenderLedger",
+  "repositoryName": "renderledger-blender-render-budget-viewport",
+  "githubTopics": [
+    "blender",
+    "render-planning",
+    "scene-resources",
+    "device-comparison",
+    "workflow-planning",
+    "application-tools",
+    "documentation",
+    "project-specification",
+    "design-notes",
+    "verification-plan"
+  ],
+  "semanticWord": "viewport"
+}
